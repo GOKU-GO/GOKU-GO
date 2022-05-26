@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-background_53876-160646.jpg?t=st=1653530066~exp=1653530666~hmac=5ab9dfc211242a4a6c107e9d5ef973a7ac19d404cb5f627ec9345cc0a6f4c9ac&w=1060)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gokulavasan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right">
